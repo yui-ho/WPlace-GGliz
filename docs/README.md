@@ -42,21 +42,110 @@
 </table>
 
 <h1>Blue Marble</h1>
-<a href="https://wplacestatus.sobakintech.xyz" target="_blank" rel="noopener noreferrer"><img alt="Wplace Status" src="https://status.wplace.lol/api/badge/15/status"></a>
-<a href="" target="_blank" rel="noopener noreferrer"><img alt="Latest Version" src="https://img.shields.io/badge/Latest_Version-Version-lightblue?style=flat"></a>
+<a href="https://status.wplace.lol" target="_blank" rel="noopener noreferrer"><img alt="Wplace Status" src="https://status.wplace.lol/badge/_/status?labelColor=5f5f5f&color=&style=flat&label=Wplace%20Status"></a>
+<a href="" target="_blank" rel="noopener noreferrer"><img alt="Latest Version" src="https://img.shields.io/badge/Latest_Version-0.82.54-lightblue?style=flat"></a>
 <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/releases" target="_blank" rel="noopener noreferrer"><img alt="Latest Release" src="https://img.shields.io/github/v/release/SwingTheVine/Wplace-BlueMarble?sort=semver&style=flat&label=Latest%20Release&color=blue"></a>
 <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/LICENSE.txt" target="_blank" rel="noopener noreferrer"><img alt="Software License: MPL-2.0" src="https://img.shields.io/badge/Software_License-MPL--2.0-slateblue?style=flat"></a>
 <a href="https://discord.gg/tpeBPy46hf" target="_blank" rel="noopener noreferrer"><img alt="Contact Me" src="https://img.shields.io/badge/Contact_Me-gray?style=flat&logo=Discord&logoColor=white&logoSize=auto&labelColor=cornflowerblue"></a>
+<a href="https://bluemarble.camilledaguin.fr/" target="_blank" rel="noopener noreferrer"><img alt="Blue Marble Website" src="https://img.shields.io/badge/Blue_Marble_Website-Camille_Daguin-blue?style=flat&logo=globe&logoColor=white"></a>
 <a href="" target="_blank" rel="noopener noreferrer"><img alt="WakaTime" src="https://img.shields.io/badge/Coding_Time-111hrs_12mins-blue?style=flat&logo=wakatime&logoColor=black&logoSize=auto&labelColor=white"></a>
 <a href="" target="_blank" rel="noopener noreferrer"><img alt="Total Patches" src="https://img.shields.io/badge/Total_Patches-494-black?style=flat"></a>
 <a href="" target="_blank" rel="noopener noreferrer"><img alt="Total Lines of Code" src="https://tokei.rs/b1/github/SwingTheVine/Wplace-BlueMarble?category=code"></a>
 <a href="" target="_blank" rel="noopener noreferrer"><img alt="Total Comments" src="https://tokei.rs/b1/github/SwingTheVine/Wplace-BlueMarble?category=comments"></a>
 <a href="" target="_blank" rel="noopener noreferrer"><img alt="Compression" src="https://img.shields.io/badge/Compression-74.77%25-blue"></a>
 <a href="" target="_blank" rel="noopener noreferrer"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/SwingTheVine/Wplace-BlueMarble"></a>
-<a href="" target="_blank" rel="noopener noreferrer"><img alt="Visitors" src="https://img.shields.io/badge/Visitors-84_851-gainsboro?style=flat"></a>
+<a href="" target="_blank" rel="noopener noreferrer"><img alt="Visitors" src="https://img.shields.io/badge/Visitors-354_340-gainsboro?style=flat"></a>
 <a href="" target="_blank" rel="noopener noreferrer"><img alt="Downloads" src="https://img.shields.io/github/downloads/SwingTheVine/Wplace-BlueMarble/total.svg"></a>
 <a href="" target="_blank" rel="noopener noreferrer"><img alt="Build" src="https://github.com/SwingTheVine/Wplace-BlueMarble/actions/workflows/build.yml/badge.svg"></a>
+<a href="" target="_blank" rel="noopener noreferrer"><img alt="Pages" src="https://github.com/SwingTheVine/Wplace-BlueMarble/actions/workflows/pages/pages-build-deployment/badge.svg?branch=wiki"></a>
 <a href="" target="_blank" rel="noopener noreferrer"><img alt="CodeQL" src="https://github.com/SwingTheVine/Wplace-BlueMarble/actions/workflows/github-code-scanning/codeql/badge.svg"></a>
+<a href="https://www.bestpractices.dev/projects/11067" target="_blank" rel="noopener noreferrer"><img alt="OpenSSF Best Practices" src="https://www.bestpractices.dev/projects/11067/badge"></a>
+
+<h2>Quick Guide</h2>
+<p>
+  Press the arrows to reveal the option you want.
+  <details>
+    <summary>
+      <b>I want to download Blue Marble.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="#installation-instructions">Click here</a> to view the installation instructions.
+  </details>
+  <details>
+    <summary>
+      <b>I want to ask questions about Blue Marble.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://discord.gg/tpeBPy46hf" target="_blank" rel="noopener noreferrer">Click here</a> for the Discord server invite to the Blue Marble support server.
+    <br>
+    <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/discussions/categories/q-a">Click here</a> for the GitHub help & question page for Blue Marble.
+  </details>
+  <details>
+    <summary>
+      <b>I want to report a bug.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/issues/new/choose">Click here</a> to report a bug, then choose the "Bug Report" option.
+  </details>
+  <details>
+    <summary>
+      <b>I want to suggest a feature.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/issues/new/choose">Click here</a> to suggest a feature, then choose the Feature Request" option.
+  </details>
+  <details>
+    <summary>
+      <b>I want to contribute.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/CONTRIBUTING.md">Click here</a> to read the contributing guidelines.
+  </details>
+  <details>
+    <summary>
+      <b>I want to report a vulnerability.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/security">Click here</a> to submit a vulnerability report.
+  </details>
+  <details>
+    <summary>
+      <b>I want to visit the website.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://bluemarble.camilledaguin.fr/" target="_blank" rel="noopener noreferrer">Click here</a> to visit the official Blue Marble website.
+  </details>
+</p>
+
+<h2>Quick Guide</h2>
+<p>
+  Press the arrows to reveal the option you want.
+  <details>
+    <summary>
+      <b>I want to download Blue Marble.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="#installation-instructions">Click here</a> to view the installation instructions.
+  </details>
+  <details>
+    <summary>
+      <b>I want to ask questions about Blue Marble.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://discord.gg/tpeBPy46hf" target="_blank" rel="noopener noreferrer">Click here</a> for the Discord server invite to the Blue Marble support server.
+    <br>
+    <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/discussions/categories/q-a">Click here</a> for the GitHub help & question page for Blue Marble.
+  </details>
+  <details>
+    <summary>
+      <b>I want to report a bug.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/issues/new/choose">Click here</a> to report a bug, then choose the "Bug Report" option.
+  </details>
+  <details>
+    <summary>
+      <b>I want to suggest a feature.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/issues/new/choose">Click here</a> to suggest a feature, then choose the Feature Request" option.
+  </details>
+  <details>
+    <summary>
+      <b>I want to contribute.</b> <sup>(Click to Expand)</sup>
+    </summary>
+    <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/CONTRIBUTING.md">Click here</a> to read the contributing guidelines.
+  </details>
+</p>
 
 <h2>Quick Guide</h2>
 <p>
@@ -105,7 +194,7 @@
     <li>Allowing you to use the eyedropper on the template image, provided the colors are correct</li>
     <li>...and more!</li>
   </ul>
-  If you like this userscript, please ⭐ the repository! If you wish to contribute to Blue Marble, check out the <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">CONTRIBUTING.md</a> file in <code>docs/</code>.
+  If you like this userscript, please ⭐ the repository! For more information and updates, visit the <a href="https://bluemarble.camilledaguin.fr/" target="_blank" rel="noopener noreferrer">Blue Marble website</a>. If you wish to contribute to Blue Marble, check out the <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">CONTRIBUTING.md</a> file in <code>docs/</code>.
 
   <img alt="Showcase image of Blue Marble template" src="./assets/Showcase1.png">
 
@@ -118,16 +207,16 @@
     Installation instructions for Blue Marble are below. Click the arrows to expand the instructions you want to see. Blue text is a link.
     <details>
       <summary>
-        <b>Install Chrome</b> <sup>(Click to Expand)</sup>
+        <b>Install Chrome</b> <sup>(Click to expand)</sup>
       </summary>
       <a href="https://www.youtube.com/watch?v=gg5oiJcftEc" target="_blank" rel="noopener noreferrer"><img alt="Install Tutorial" src="https://img.shields.io/badge/Install_Tutorial-gray?style=flat&logo=YouTube&logoColor=white&logoSize=auto&labelColor=darkred"></a>
       <ol>
-        <li>Install the <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank" rel="noopener noreferrer">TamperMonkey</a> plugin for Chrome.
+        <li>Install the <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank" rel="noopener noreferrer">TamperMonkey</a> extension for Chrome.
         <br>
-        <img alt="Click the 'Add extention' button" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerChromeInstall1.png"></li>
-        <li>Right-click the extention.
+        <img alt="Click the 'Add extension' button" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerChromeInstall1.png"></li>
+        <li>Right-click the extension.
         <br>
-        <img alt="Enter the 'Manage Extention' menu" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerChromeInstall2.png"></li>
+        <img alt="Enter the 'Manage Extension' menu" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerChromeInstall2.png"></li>
         <li>Left-click "Manage Extension."</li>
         <li>Enable "Developer Mode."
         <br>
@@ -141,20 +230,20 @@
     </details>
     <details>
       <summary>
-        <b>Install Edge</b> <sup>(Click to Expand)</sup>
+        <b>Install on Microsoft Edge</b> <sup>(Click to expand)</sup>
       </summary>
       <ol>
         <li>Install the <a href="https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd" target="_blank" rel="noopener noreferrer">TamperMonkey</a> plugin for Microsoft Edge.
         <br>
         <img alt="Click the 'Get' button" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerEdgeInstall1.png"></li>
-        <li>Right-click the extention.
+        <li>Right-click the extension.
         <br>
-        <img alt="Enter the 'Manage Extention' menu" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerEdgeInstall2.png"></li>
+        <img alt="Enter the 'Manage Extension' menu" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerEdgeInstall2.png"></li>
         <li>Left-click "Manage Extension."</li>
         <li>Enable "Developer Mode."
         <br>
         <img alt="Enable 'Developer Mode'" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerEdgeInstall3.png"></li>
-        <li>Download the <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/releases" target="_blank" rel="noopener noreferrer">BlueMarble.user.js</a> file in the "assets" of the latest release.</li>
+        <li>Download the <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/releases" target="_blank" rel="noopener noreferrer">BlueMarble.user.js</a> file in the "Assets" of the latest release.</li>
         <li>Open the TamperMonkey Dashboard.
         <br>
         <img alt="Enter the TamperMonkey 'Dashboard'" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerEdgeInstall4.png"></li>
@@ -172,15 +261,15 @@
     </details>
     <details>
       <summary>
-        <b>Install FireFox</b> <sup>(Click to Expand)</sup>
+        <b>Install on Firefox</b> <sup>(Click to expand)</sup>
       </summary>
       <ol>
         <li>Install the <a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/" target="_blank" rel="noopener noreferrer">TamperMonkey</a> plugin for Firefox.
         <br>
-        <img alt="Click the 'Add to FireFox' button" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerFireFoxInstall1.png"></li>
+        <img alt="Click the 'Add to Firefox' button" src="https://github.com/SwingTheVine/Wplace-BlueMarble/blob/main/docs/assets/ComputerFireFoxInstall1.png"></li>
         <li><strong>One-click install:</strong> Click this link to Install Blue Marble directly: <a href="https://github.com/SwingTheVine/Wplace-BlueMarble/releases/download/pre/BlueMarble.user.js" target="_blank" rel="noopener noreferrer"><strong>Install Blue Marble</strong></a>
         <br>
-        TamperMonkey will automatically detect the userscript and prompt you to Install it.</li>
+        TamperMonkey will automatically detect the userscript and prompt you to install it.</li>
         <li>Refresh the <a href="https://wplace.live/" target="_blank" rel="noopener noreferrer">wplace.live</a> webpage.</li>
       </ol>
     </details>
@@ -201,18 +290,6 @@
   <h3>Script Settings</h3>
   <p>
     There are many settings available for the Blue Marble userscript! Through these settings, you can control how the script behaves.
-    <!--
-    <h4>Stealth Mode</h4>
-    <a href="" target="_blank"><img alt="Default: Enabled" src="https://img.shields.io/badge/Default-Enabled-lightgreen?style=flat"></a>
-    <p>
-      Stealth Mode, when enabled, requires the game to make a request to the server instead of Blue Marble making its own requests. However, this means Blue Marble will wait indefinitely until the request is made. <b>This should be used with Possessed Mode</b> so Blue Marble can "suggest" the game make certain requests instead of waiting for the requests to naturally occur.
-    </p>
-    <h4>Possessed Mode</h4>
-    <a href="" target="_blank"><img alt="Default: Enabled" src="https://img.shields.io/badge/Default-Enabled-lightgreen?style=flat"></a>
-    <p>
-      In Possessed Mode, Blue Marble will prioritize controling the game over directly interacting with the server. For example, assume a situation where Blue Marble is trying to place a pixel. However, the tile is not loaded. Typically, Blue Marble would make a request to the server to fetch the tile. When <b>Possessed Mode</b> is enabled, Blue Marble will teleport the game to the tile, which causes the game to fetch the tile. The difference lies in <i>who</i> sends the request to the server. When <b>Stealth Mode</b> and <b>Possessed Mode</b> are both enabled, it is harder to detect the userscript since most actions are made through the game, not the userscript.
-    </p>
-    -->
   </p>
 
   <h3>Template Settings</h3>
@@ -259,7 +336,7 @@
   <p><b>A:</b> Blue Marble does not contain malicious code. The Blue Marble code can be found in the <code>src/</code> folder. If you worry about Blue Marble being malware, you can read the code, then bundle it yourself using the tools in <code>build/</code>.
 
   <h3>How can Blue Marble place pixels for me?</h3>
-  <p><b>A:</b> Unfortunatly, Blue Marble will not support the automatic placement of pixels without user interaction.
+  <p><b>A:</b> Unfortunately, Blue Marble will not support the automatic placement of pixels without user interaction because it is not allowed by Wplace.
 
   <h3>How do I hide the overlay?</h3>
   <p><b>A:</b> Turn the userscript off and refresh the page.</p>
