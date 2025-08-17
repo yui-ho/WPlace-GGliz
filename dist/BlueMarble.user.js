@@ -10,8 +10,7 @@
 // @icon         https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/509c030292c264477d6571d46f03d14fc1f32a1a/dist/assets/Favicon.png
 // @updateURL    https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/main/dist/BlueMarble.user.js
 // @downloadURL  https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/main/dist/BlueMarble.user.js
-// @match        https://wplace.live/
-// @match        https://wplace.live/?*
+// @match        https://wplace.live/*
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // @grant        GM.setValue
