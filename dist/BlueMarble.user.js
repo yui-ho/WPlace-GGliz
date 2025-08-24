@@ -6,8 +6,8 @@
 // @author       SwingTheVine
 // @license      MPL-2.0
 // @supportURL   https://discord.gg/tpeBPy46hf
-// @homepageURL  https://bluemarble.camilledaguin.fr/
-// @icon         https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/051271c433a42db968a865b00f81bb979ee7d13f/dist/assets/Favicon.png
+// @homepageURL  https://bluemarble.lol/
+// @icon         https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/8d02ac9cbe8f6861248152f2b0d632a0b4a830ee/dist/assets/Favicon.png
 // @updateURL    https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/main/dist/BlueMarble.user.js
 // @downloadURL  https://raw.githubusercontent.com/SwingTheVine/Wplace-BlueMarble/main/dist/BlueMarble.user.js
 // @match        https://wplace.live/*
