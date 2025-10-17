@@ -1,6 +1,7 @@
 <h2>About this fork: WGliz</h2>
 <p>I made modifications to make it light and compact ideal for mobile devices.</p>
-<p>(It will be available after solving a last-minute problem...)</p>
+<strong>One-click install:</strong> Click this link to install WGliz directly: <a href="https://raw.githubusercontent.com/yui-ho/WPlace-GGliz/refs/heads/main/dist/gliz.user.script.js" target="_blank" rel="noopener noreferrer"><strong>The userscript for this fork</strong></a>
+<br><br>
 
 | UI Guide | Upload Image |
 |-|-|
