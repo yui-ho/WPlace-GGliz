@@ -1,3 +1,34 @@
+<h2>About this fork: WGliz</h2>
+<p>I made modifications to make it light and compact ideal for mobile devices.</p>
+<p>(It will be available after solving a last-minute problem...)</p>
+
+| UI Guide | Upload Image |
+|-|-|
+| ![UI Guide](assets/UI_guide.png) | ![Upload Image](assets/upload.png) |
+
+| Without background overlay | With background overlay |
+|-|-|
+| ![Without background overlay](assets/bg_overlay01.png) | ![With background overlay](assets/bg_overlay02.png) |
+
+<h3>Improvements</h3>
+<ul>
+<li>Upload your template from the selected pixel in the map.</li>
+<li>Color reduction (free or premium) with automatic dithering. (optional)</li>
+<li>Background to the template, configurable color and transparency.</li>
+<li>Background overlay while painting for greater contrast. (optional)</li>
+<li>Wrong pixel highlighter, configurable color and shape.</li>
+<li>Highlighter for unpainted pixels. (optional)</li>
+<li>Color list with visual details: painted, missing, and total pixels by color.</li>
+<li>Color filter from the wplace palette or with the eyedropper. (optional)</li>
+<li>Color filter from the color list.</li>
+<li>Percentage of completion by color in the wplace palette.</li>
+<li>Button to return to the active template.</li>
+<li>Total time to have Droplets filled, visible.</li>
+<li>Hide UI while painting.</li>
+<li>Persistence in most configurations.</li>
+</ul>
+<br>
+<br>
 <table>
   <tr>
     <td><a href="#blue-marble">Blue Marble</a></td>
