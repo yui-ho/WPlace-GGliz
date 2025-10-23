@@ -11,6 +11,10 @@
 |-|-|
 | ![Without background overlay](assets/bg_overlay01.png) | ![With background overlay](assets/bg_overlay02.png) |
 
+| Diamon Highlighter |
+|-|
+| ![UI Guide](assets/diamon_highlighter.png) |
+
 <h3>Improvements</h3>
 <ul>
 <li>Upload your template from the selected pixel in the map.</li>
