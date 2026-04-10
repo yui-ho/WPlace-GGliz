@@ -1,10 +1,11 @@
 <div align="center">
 WPlace Gliz (WGliz)
-Version: 1.73.0 | Platform: PC & Mobile | Extension: Edge
+Version: 1.76.0 | Platform: PC & Mobile | Extension: Edge, Firefox
 
 Advanced template tool for WPLACE with color converter, progress tracking, and visual guides for efficient pixel painting.
 
 ![UI Guide](assets/interface.png)
+![UI Guide](assets/interface2.png)
 
 </div>
 <br>
@@ -13,11 +14,14 @@ Advanced template tool for WPLACE with color converter, progress tracking, and v
 ⟐ Copy and paste <a href="https://raw.githubusercontent.com/yui-ho/WPlace-GGliz/refs/heads/main/dist/gliz.userscript.js" target="_blank" rel="noopener noreferrer" ><strong>the userscript from this fork</strong></a> into the script manager such as Violentmonkey, Tampermonkey, or Greasemonkey.
 
 <br>
-<h3>Option 2: Edge Extension (Microsoft Edge Only)</h3>
+<h3>Option 2: Extensions for Edge and Firefox</h3>
 
-* Available in Microsoft Edge Add-ons Store
+* **Available in Microsoft Edge Add-ons Store**
 * Search for: "WPlace Gliz" in the extensions store - <a href="https://microsoftedge.microsoft.com/addons/search/Wplace%20Gliz" target="_blank" ><strong>External link</strong></a>
 * On mobile devices you can use Edge Canary with developer options to install the extension by ID: "jfbmeppgpommhfdnnemhklefoommabof"
+
+* **Mozilla Add-ons Store:**
+* Available for PC or mobile - <a href="https://addons.mozilla.org/firefox/addon/wplace-gliz-overlay-extension/" target="_blank" ><strong>External link</strong></a>
 
 <h2>Key Features</h2>
 <h3>Template System</h3>
@@ -45,7 +49,6 @@ Advanced template tool for WPLACE with color converter, progress tracking, and v
 <li><b>Contextual Palette:</b> Displays only colors used in active template with progress percentages.</li>
 <li><b>Progress Bar:</b> Visual progress tracking in header section.</li>
 <li><b>Real-time Updates:</b> Changes reflect on next tile refresh (approximately 2-5 seconds)</li>
-<li><b>Eyedropper Mode:</b> Complete hiding of the color palette. When using the eyedropper: temporary conversion of dots to full pixels for precise color selection.</li>
 </ul>
 
 <h2>Usage Guide</h2>
@@ -88,9 +91,7 @@ Advanced template tool for WPLACE with color converter, progress tracking, and v
 |-|-|-|
 | Premium Colors | Include premium colors in conversions | Recommended for better quality |
 | Dithering | Apply dithering in color conversions | Recommended for gradients |
-| Background Overlay | Overlay background during painting | Recommended for better contrast |
-| Unpainted Highlighter | Highlight unpainted pixels | Based on preference |
-| Disable Color Picker | Disable color picker during painting |  |
-| Hide WPLACE Palette | Eyedropper mode |  |
+| View full-size pixels | View the full-size template |  |
+| Map background color | Change the map to a solid color |  |
 
 
