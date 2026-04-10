@@ -11,7 +11,7 @@ Advanced template tool for WPLACE with color converter, progress tracking, and v
 <br>
 <h2>Installation</h2>
 <h3>Option 1: User Script (Recommended)</h3>
-⟐ Copy and paste <a href="https://raw.githubusercontent.com/yui-ho/WPlace-GGliz/refs/heads/main/dist/gliz.userscript.js" target="_blank" rel="noopener noreferrer" ><strong>the userscript from this fork</strong></a> into the script manager such as Violentmonkey, Tampermonkey, or Greasemonkey.
+⟐ Copy and paste <a href="https://github.com/yui-ho/WPlace-GGliz/releases/download/v1.76.0/gliz.userscript.js" target="_blank" rel="noopener noreferrer" ><strong>the userscript from this fork</strong></a> into the script manager such as Violentmonkey, Tampermonkey, or Greasemonkey.
 
 <br>
 <h3>Option 2: Extensions for Edge and Firefox</h3>
